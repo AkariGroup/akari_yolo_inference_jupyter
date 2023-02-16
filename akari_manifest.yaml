@@ -1,0 +1,4 @@
+name: akari_yolo_inference_jupyter
+description: AKARIのYOLOモデルを使った推論サンプルです。
+author: "AKARI"
+url: "https://github.com/AkariGroup/akari_yolo_inference_jupyter.git"
